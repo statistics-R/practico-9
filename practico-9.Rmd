@@ -1,5 +1,5 @@
 ---
-title: "Práctico N°8: Transformaciones funcionales cuadrática y logarítmica"
+title: "Práctico N°9: Transformaciones funcionales cuadrática y logarítmica"
 date: "28-03-2023"
 output: html_document
 ---
