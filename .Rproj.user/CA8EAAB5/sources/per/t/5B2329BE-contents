@@ -1,5 +1,5 @@
 ---
-title: "Práctico N°8: Transformaciones funcionales cuadrática y logarítmica"
+title: "Práctico N°9: Transformaciones funcionales cuadrática y logarítmica"
 date: "28-03-2023"
 output: html_document
 ---
@@ -203,3 +203,7 @@ x^* = |{\hat{\beta1}}/(2\hat{\beta_2})|
 $$
 
 En nuestro caso, esto equivale a $|{\hat{\beta1}}/(2\hat{\beta_2})| = |-22713.18/2*(2477.09)| = -4.58465$. Es decir, si $x>-4.58465$, el efecto será negativo; mientras que valores de $x<-4.58465$ tendrán un efecto positivo sobre $y$. 
+
+## Resumen
+
+En este práctico comprendimos cómo las transformaciones funcionales permiten solucionar problemas de estimación al estimar modelos de regresión lineal. Además, aprendimos a analizar los coeficientes de predictores transformados funcionalmente a través de la logaritmización y la elevación al cuadrado. 
